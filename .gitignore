@@ -1,0 +1,8 @@
+YoctoLib.cpp/
+x64/
+ipch/
+
+*.suo
+*.user
+*.db
+*.opendb
